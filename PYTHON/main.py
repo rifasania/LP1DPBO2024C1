@@ -1,3 +1,8 @@
+# Saya Rifa Sania NIM 2206697 mengerjakan Latihan Praktikum 1 dalam mata kuliah Struktur Data
+# untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin...
+
+# yang ubah data nya masih error kang teh punteun maaf hehee
+
 from DPR import DPR
 
 # array

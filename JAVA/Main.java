@@ -1,3 +1,6 @@
+// Saya Rifa Sania NIM 2206697 mengerjakan Latihan Praktikum 1 dalam mata kuliah Struktur Data
+// untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin...
+
 import java.util.Scanner;
 import java.util.ArrayList;
 

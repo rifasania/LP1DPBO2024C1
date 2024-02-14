@@ -1,3 +1,6 @@
+# Saya Rifa Sania NIM 2206697 mengerjakan Latihan Praktikum 1 dalam mata kuliah Struktur Data
+# untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin...
+
 class DPR:
 
     __id = 0
@@ -20,8 +23,8 @@ class DPR:
     def get_nama(self):
         return self.__nama
 
-    def set_nama(self, nama):
-        return self.__nama = nama
+    def set_nama(self):
+        return self.__nama
 
     def get_bidang(self):
         return self.__bidang
@@ -96,6 +99,8 @@ class DPR:
     
     def tampilkan_data(llist):
         print("List Data Anggota DPR:")
+        i = 0;
         for dpr in llist:
-            print(f"{dpr.get_id()}. {dpr.get_nama()} | {dpr.get_bidang()} | {dpr.get_partai()}")
+            print(dpr.get_id(), ".", dpr.get_nama(), "|", dpr.get_bidang(), "|", dpr.get_partai())
+            i += 1
         print("Selesai. Keluar dari program.\n")
